@@ -11,6 +11,7 @@ import Hostels from './components/Hostels';
 function App() {
   return (
     <div className='App'>
+      
       <Routes>
         <Route path='/' element={<Entry />}/>
         <Route path='/hostels' element={< Hostels />}/>
