@@ -7,7 +7,7 @@ function Entry() {
     return (
         <div>
             <Header />
-            <h1>home page</h1>
+           
             <section className="hero">
 <div className="content">
     <h1>Hostel Find</h1>
