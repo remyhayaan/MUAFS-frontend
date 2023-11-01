@@ -8,7 +8,11 @@ function Entry() {
         <div>
             <Header />
             <h1>home page</h1>
-            
+            <section className="hero">
+<div className="content">
+    <h1>Be Creative</h1>
+</div>
+            </section>
          </div>     
                 
           
