@@ -10,7 +10,13 @@ function Entry() {
             <h1>home page</h1>
             <section className="hero">
 <div className="content">
-    <h1>Be Creative</h1>
+    <h1>Hostel Find</h1>
+    <p>
+          {" "}
+          Trust us to get you a home away from home
+        </p>
+        <Link to={'/hostels'}>Start Now</Link>
+      
 </div>
             </section>
          </div>     
